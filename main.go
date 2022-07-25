@@ -6,6 +6,8 @@ import (
 	// ex2 "leetcode/find-pivot-index"
 	// ex3 "leetcode/isomorphic-string"
 	// ex4 "leetcode/is-subsequence"
+	// ex5 "leetcode/merge-two-list"
+	// ex6 "leetcode/reversed-linked-list"
 )
 
 func main() {
@@ -14,4 +16,6 @@ func main() {
 	// ex2.PivotIndex([]int{2, 1, -1})
 	// ex3.IsIsomorphic("badc", "baba")
 	// ex4.IsSubsequence("ab", "baab")
+	// ex5.MergeTwoList(...)
+	// ex6.ReverseList(...)
 }
